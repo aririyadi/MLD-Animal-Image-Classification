@@ -1,4 +1,4 @@
-# Animal Image Classification Model
+# Animal Image Classification - _Convolutional Neural Networks_ (CNNs)
 **_By_ : _Ari Riyadi, S. Kom_**
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aririyadi/)
@@ -7,6 +7,4 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Project Overview
-Proyek ini bertujuan untuk mengembangkan model klasifikasi gambar yang dapat mengidentifikasi berbagai jenis hewan dari citra. Dengan menggunakan teknik deep learning dan convolutional neural networks (CNNs), model akan dilatih untuk mengenali dan mengklasifikasikan hewan-hewan dari gambar yang diberikan.
-
-Dengan menyelesaikan proyek ini, diharapkan akan tersedia model klasifikasi gambar yang efektif dan dapat digunakan untuk mengenali berbagai jenis hewan dari gambar. Model ini dapat memiliki berbagai aplikasi praktis, mulai dari pengenalan hewan untuk tujuan konservasi hingga integrasi dalam sistem kecerdasan buatan untuk pengawasan keamanan.
+Project ini bertujuan untuk mengembangkan model klasifikasi gambar yang mampu mengidentifikasi berbagai jenis hewan dari citra. Dengan memanfaatkan teknik _Convolutional Neural Networks_ (CNNs), model akan dilatih untuk secara akurat mengenali dan mengklasifikasikan hewan-hewan dari gambar yang disediakan. Dari hasil pelatihan model, diharapkan tercipta sebuah alat yang efektif dalam mengenali gambar-gambar hewan, memiliki tingkat akurasi yang tinggi dan kemampuan generalisasi yang baik terhadap berbagai kondisi visual. Model ini memiliki potensi aplikasi yang luas, mulai dari mendukung upaya konservasi hewan dengan memantau populasi liar hingga meningkatkan keamanan dengan pengenalan hewan dalam sistem pengawasan.
